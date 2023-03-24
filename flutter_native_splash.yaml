@@ -1,0 +1,12 @@
+flutter_native_splash:
+  color: "#003366"
+  image: "assets/dgvc_logo.png"
+  # background_image: "assets/back.png"
+
+
+  # background_image_dark: "assets/back.png"
+
+
+  android_12:
+    image: "assets/dgvc_logo.png"
+    background_image: "assets/back.png"
